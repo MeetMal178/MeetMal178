@@ -34,7 +34,7 @@
       <circle cx="700" cy="30" r="2"><animate attributeName="cy" values="30;45;30" dur="3.5s" repeatCount="indefinite"/></circle>
     </g>
     <text x="450" y="95" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="46" font-weight="700" fill="url(#txt)">
-      Hi, I'm YOUR NAME 👋
+      Hi, I'm YOUR MEET 👋
       <animate attributeName="opacity" from="0" to="1" dur="1.5s" fill="freeze"/>
     </text>
     <text x="450" y="140" text-anchor="middle" font-family="'Courier New',monospace" font-size="22" fill="#e6f1ff">
