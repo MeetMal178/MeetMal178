@@ -10,9 +10,9 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MeetMal&color=00d9f5&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/meet-mal/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:meetmal08@gmail.co)
+[![Leetcode](https://img.shields.io/badge/Leetcode-1DA1F2?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Meet_Mal/)
 
 </div>
 
