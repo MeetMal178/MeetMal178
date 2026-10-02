@@ -13,7 +13,7 @@
   <rect class="bg" width="900" height="330" rx="12"/>
   <rect class="bar" width="900" height="38" rx="12"/>
   <circle cx="24" cy="19" r="7" fill="#ff5f56"/><circle cx="48" cy="19" r="7" fill="#ffbd2e"/><circle cx="72" cy="19" r="7" fill="#27c93f"/>
-  <text class="t c" x="450" y="24" text-anchor="middle" font-size="14">yourusername@github: ~</text>
+  <text class="t c" x="450" y="24" text-anchor="middle" font-size="14">MeetMal@github: ~</text>
 
   <text class="t line l1" x="30" y="75"><tspan class="p">$</tspan> Who am I</text>
   <text class="t line l2" x="30" y="105"><tspan class="k">Name</tspan>      : <tspan class="v">MEET MAL</tspan></text>
@@ -21,6 +21,6 @@
   <text class="t line l4" x="30" y="159"><tspan class="k">Location</tspan>  : <tspan class="v">Pune, India</tspan></text>
   <text class="t line l5" x="30" y="186"><tspan class="k">Languages</tspan> : <tspan class="v">Python · JavaScript · C++ · HTML · CSS</tspan></text>
   <text class="t line l6" x="30" y="213"><tspan class="k">Learning</tspan>  : <tspan class="v">Linear algebra, Web dev, DSA</tspan></text>
-  <text class="t line l7" x="30" y="240"><tspan class="k">Fun-Fact</tspan>  : <tspan class="v">I turn coffee into code ☕</tspan></text>
+  <text class="t line l7" x="30" y="240"><tspan class="k">Fun-Fact</tspan>  : <tspan class="v">I turn Coffee into Code ☕</tspan></text>
   
 </svg>
