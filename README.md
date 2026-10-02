@@ -3,13 +3,13 @@
 <img src="assets/header.svg" alt="Animated header" width="100%"/>
 
 <!-- Typing animation (external service, optional) -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/MeetMal">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9F5&center=true&vCenter=true&width=600&lines=Building+cool+things+with+code;Learning+something+new+every+day;Open+to+collaborate!" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d9f5&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=MeetMal&color=00d9f5&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:you@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
@@ -38,10 +38,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MeetMal&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetMal&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=MeetMal&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -49,15 +49,15 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Project One](https://github.com/YOUR_USERNAME/project-one) | Short description of what it does | Python |
-| [Project Two](https://github.com/YOUR_USERNAME/project-two) | Short description of what it does | JavaScript |
-| [Project Three](https://github.com/YOUR_USERNAME/project-three) | Short description of what it does | C++ |
+| [Project One](https://github.com/MeetMal/project-one) | Short description of what it does | Python |
+| [Project Two](https://github.com/MeetMal/project-two) | Short description of what it does | JavaScript |
+| [Project Three](https://github.com/MeetMal/project-three) | Short description of what it does | C++ |
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<img src="https://raw.githubusercontent.com/MeetMal/MeetMal/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
 
