@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+  <style>
+    .bg{fill:#0d1117}.bar{fill:#161b22}.t{font-family:'Courier New',monospace;font-size:17px;fill:#c9d1d9}
+    .k{fill:#00f5a0;font-weight:700}.v{fill:#79c0ff}.p{fill:#ff7b72}.c{fill:#8b949e}
+    @media (prefers-color-scheme: light){.bg{fill:#ffffff;stroke:#d0d7de}.bar{fill:#f6f8fa}.t{fill:#24292f}.k{fill:#0a7d4f}.v{fill:#0550ae}.p{fill:#cf222e}.c{fill:#57606a}}
+    .line{opacity:0;animation:show .01s forwards}
+    .l1{animation-delay:.3s}.l2{animation-delay:1s}.l3{animation-delay:1.5s}.l4{animation-delay:2s}
+    .l5{animation-delay:2.5s}.l6{animation-delay:3s}.l7{animation-delay:3.5s}.l8{animation-delay:4s}
+    @keyframes show{to{opacity:1}}
+    .cur{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+  <rect class="bg" width="900" height="330" rx="12"/>
+  <rect class="bar" width="900" height="38" rx="12"/>
+  <circle cx="24" cy="19" r="7" fill="#ff5f56"/><circle cx="48" cy="19" r="7" fill="#ffbd2e"/><circle cx="72" cy="19" r="7" fill="#27c93f"/>
+  <text class="t c" x="450" y="24" text-anchor="middle" font-size="14">yourusername@github: ~</text>
+
+  <text class="t line l1" x="30" y="75"><tspan class="p">$</tspan> whoami</text>
+  <text class="t line l2" x="30" y="105"><tspan class="k">name</tspan>      : <tspan class="v">YOUR NAME</tspan></text>
+  <text class="t line l3" x="30" y="132"><tspan class="k">role</tspan>      : <tspan class="v">Student / Developer</tspan></text>
+  <text class="t line l4" x="30" y="159"><tspan class="k">location</tspan>  : <tspan class="v">Pune, India</tspan></text>
+  <text class="t line l5" x="30" y="186"><tspan class="k">languages</tspan> : <tspan class="v">Python · JavaScript · C++</tspan></text>
+  <text class="t line l6" x="30" y="213"><tspan class="k">learning</tspan>  : <tspan class="v">Linear algebra, Web dev, DSA</tspan></text>
+  <text class="t line l7" x="30" y="240"><tspan class="k">fun fact</tspan>  : <tspan class="v">I turn coffee into code ☕</tspan></text>
+  <text class="t line l8" x="30" y="285"><tspan class="p">$</tspan> <tspan class="cur">█</tspan></text>
+</svg>
